@@ -2,6 +2,9 @@
 
 This is a CRUD application built using Flask and SQLite. It allows users to perform CRUD operations on a database of books.
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/CyrilBaah/CRUD-Hack/badge)](https://scorecard.dev/viewer/?uri=github.com/CyrilBaah/CRUD-Hack)
+
+
 ## Technology Stack
 - [Python](https://www.python.org/ "python")
 - [Sqlite](https://www.sqlite.org/ "Sqlite")
